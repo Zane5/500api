@@ -57,6 +57,7 @@ group :development do
   gem 'rubocop-rootstrap', '~> 1.1'
   gem 'spring', '~> 2.1'
   gem 'spring-watcher-listen', '~> 2.0.1'
+  gem 'solargraph', '>= 0.38.0'
 end
 
 group :test do
